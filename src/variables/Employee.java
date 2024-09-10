@@ -2,6 +2,7 @@ package variables;
 
 public class Employee {
 	
+	// global variable with static keyword is known as static variable
 	String empName;
 	int empId;
 	char empGen;
