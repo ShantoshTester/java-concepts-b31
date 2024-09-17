@@ -1,4 +1,4 @@
-package loops;
+package doloops;
 
 public class Dowhile {
 
