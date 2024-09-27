@@ -23,6 +23,7 @@ public class StringMethods {
 		
 		// toUpperCase() - this method converts the lower characters to upper characters from a given string
 		System.out.println(password.toUpperCase());
+		
 
 	}
 
